@@ -1,0 +1,20 @@
+compile
+test
+run
+styleCheck
+submit
+submit philipp.paier@gmail.com NkaVCNrSay
+compile
+test
+styleCheck
+submit philipp.paier@gmail.com NkaVCNrSay
+exit
+compile
+test
+styleCheck
+test
+compile
+test
+styleCheck
+submit philipp.paier@gmail.com NkaVCNrSay
+exit
